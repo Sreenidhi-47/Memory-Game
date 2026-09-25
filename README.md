@@ -38,7 +38,7 @@ Try to finish in **minimum time and moves**.
 
 After deployment, your game will be available here:
 
-https://viharika-ui.github.io/Memory-Game/
+ https://sreenidhi-47.github.io/Memory-Game/
 
 
 ---
